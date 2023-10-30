@@ -34,3 +34,4 @@ Auteurs :
  - Samuel Valentin
  - Junot Montpre
  - Mathias BALLOT
+ - Lucas Arnassalom
